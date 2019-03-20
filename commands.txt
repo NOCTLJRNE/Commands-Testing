@@ -1,0 +1,13 @@
+truffle compile
+truffle network --clean
+truffle migrate --network ropsten
+truffle test
+
+git init
+git add .
+git status
+git commit -am "Message"
+git remote add origin https://...
+git remote -v
+git push origin master
+git remote add upstream
