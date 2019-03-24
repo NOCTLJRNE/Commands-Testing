@@ -38,3 +38,8 @@ Please make sure to update tests as appropriate.
 
 
 ## End
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
