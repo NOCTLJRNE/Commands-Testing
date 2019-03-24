@@ -13,13 +13,13 @@
 |Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM, Frankfurt|
 |Voting address 	| RCz7mYBJLtaFo6ZHpmTrYhoDRRi7yr45md|
 
-see [linkedin](https://en.wikipedia.org/wiki/Markdown)
-## :information_source: About me
 
-Here's my linkedin profile [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/) 
+## :information_source: My profile and background
+
+You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/. In short, I'm an electrical engineer who is currently working in France. 
 
 
-## Why 
+## :question: Why vote for me ?
 
 ```python
 import foobar
