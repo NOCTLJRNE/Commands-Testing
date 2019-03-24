@@ -1,10 +1,8 @@
 # Komodo Notary Node Voting Proposal
 
 
-----
 ![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)
 
-----
 
 |					|				|
 | -----------------	| ------------- |
@@ -13,6 +11,7 @@
 |Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM, Frankfurt|
 |Voting address 	| RCz7mYBJLtaFo6ZHpmTrYhoDRRi7yr45md|
 
+---
 
 ## :information_source: My profile and background
 
