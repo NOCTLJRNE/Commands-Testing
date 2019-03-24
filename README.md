@@ -1,4 +1,4 @@
-# Foobar
+# Komodo Notary Node Voting Proposal
 
 Foobar is a Python library for dealing with word pluralization.
 
