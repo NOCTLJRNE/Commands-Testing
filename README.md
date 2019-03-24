@@ -15,7 +15,7 @@
 
 ## :information_source: My profile and background
 
-You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/. In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA (a French public government-funded research organisation), I decided to learn how to become a blockchain developper. 
+You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/) In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA (a French public government-funded research organisation), I decided to learn how to become a blockchain developper. 
 
 
 ## :question: Why vote for me ?
@@ -28,6 +28,6 @@ I don't have much experience in system security/administration, but I don't mind
 
 ## :link: My other social pages/link
 - My website (still under construction :joy:)
-- A dapp (based on a Truffle framework tutorial) that I have deployed on Ethereum Ropsten testnet :dog:
-- A simple dice game smart-contract (which use blockhash instead of a true source of randomness), also deployed on Ropsten tesnet :game_die:
+- A dapp (which was based on a Truffle framework tutorial, I migrated the front-end part to React) that I have deployed on Ethereum Ropsten testnet :dog: [codesandbox](https://jz0060zrmy.codesandbox.io/)
+- A simple dice game smart-contract (which use blockhash instead of a true source of randomness), also deployed on Ropsten tesnet :game_die: [etherscan](https://ropsten.etherscan.io/address/0xb5a5734ba7198a2283730bc998f8af56408ca06d#code)
 ## End
