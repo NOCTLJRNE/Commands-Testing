@@ -16,6 +16,19 @@
 |Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM, Frankfurt|
 |Voting address 	| RCz7mYBJLtaFo6ZHpmTrYhoDRRi7yr45md|
 
+#####|					|				|
+#####| -----------------	| ------------- |
+#####|Discord username 	| @PHBA2061#2530|
+#####|Region 			| EU|
+#####|Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM, Frankfurt|
+#####|Voting address 	| RCz7mYBJLtaFo6ZHpmTrYhoDRRi7yr45md|
+
+|					|				|
+| -----------------	| ------------- |
+|##### Discord username 	| @PHBA2061#2530|
+|##### Region 			| EU|
+|##### Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM, Frankfurt|
+|##### Voting address 	| RCz7mYBJLtaFo6ZHpmTrYhoDRRi7yr45md|
 see [linkedin](https://en.wikipedia.org/wiki/Markdown)
 ## Installation
 
