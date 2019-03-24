@@ -14,15 +14,12 @@
 |Voting address 	| RCz7mYBJLtaFo6ZHpmTrYhoDRRi7yr45md|
 
 see [linkedin](https://en.wikipedia.org/wiki/Markdown)
-## Installation
+## :information_source: About me
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Here's my linkedin profile [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/) 
 
-```bash
-pip install foobar
-```
 
-## Usage
+## Why 
 
 ```python
 import foobar
