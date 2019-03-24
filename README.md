@@ -20,50 +20,14 @@ You can find my full background & profile on linkedin [linkedin](https://www.lin
 
 ## :question: Why vote for me ?
 
-I'd like to focus on developping blockchain dapps. I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have the time to take a deep look into it (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from notary node (NN) and speed up my contribution to Komodo. 
+I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have the time to take a deep look into it (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from notary node (NN) and speed up my contribution to Komodo. 
 
 I don't have much experience in system security/administration, but I don't mind spend time learning from other NN operators in order to guarantee the performance of my NN.
  
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
+## :link: My other social pages/link
+- My website (still under construction :joy:)
+- A dapp (based on a Truffle framework tutorial) that I have deployed on Ethereum Ropsten testnet :dog:
+- A simple dice game smart-contract (which use blockhash instead of a true source of randomness), also deployed on Ropsten tesnet :game_die:
 ## End
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
----
-|				|				|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
----
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
----
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
----
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
