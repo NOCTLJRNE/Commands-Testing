@@ -43,10 +43,15 @@ Please make sure to update tests as appropriate.
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
+---
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
+---
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+---
+| First Header  | Second Header |
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
