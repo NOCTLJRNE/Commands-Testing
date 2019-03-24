@@ -16,7 +16,7 @@
 
 ## :information_source: My profile and background
 
-You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/. In short, I'm an electrical engineer who is currently working in France. 
+You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/. In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA (a French public government-funded research organisation), I decided to learn how to become a blockchain developper. 
 
 
 ## :question: Why vote for me ?
