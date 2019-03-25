@@ -8,7 +8,7 @@
 | -----------------	| ------------- |
 |Discord username 	| @PHBA2061#2530|
 |Region 			| EU|
-|Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM, Frankfurt|
+|Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM, Frankfurt-DE|
 |Voting address 	| RCz7mYBJLtaFo6ZHpmTrYhoDRRi7yr45md|
 
 ---
@@ -20,7 +20,7 @@ You can find my full background & profile on linkedin [linkedin](https://www.lin
 
 ## :question: Why should you vote for me ?
 
-I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have the time to take a deep look into it (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from notary node (NN), expand my team if needed(currently I'm the only member :grin:) and speed up my contribution to Komodo. 
+I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have the time to take a deep look into it (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from notary node (NN), expand my team if needed (for the moment I'm the only member :grin:) and speed up my contribution to Komodo. 
 
 I don't have much experience in system security/administration, but I don't mind spend time learning from other NN operators in order to guarantee the performance of my NN.
  
