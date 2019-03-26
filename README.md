@@ -32,4 +32,36 @@ I don't have much experience in system security/administration, but I don't mind
 - My website, which is still under construction & temporally hosted on [codesandbox.io](https://64n60p245n.codesandbox.io/) :joy:
 - A dapp (which was based on a Truffle framework tutorial, I migrated the front-end part to React) that I have deployed on Ethereum Ropsten testnet :dog: [codesandbox](https://jz0060zrmy.codesandbox.io/)
 - A simple dice game smart-contract (which use blockhash instead of a true source of randomness), also deployed on Ropsten tesnet :game_die: [etherscan](https://ropsten.etherscan.io/address/0xb5a5734ba7198a2283730bc998f8af56408ca06d#code)
+
+## :lock: My PGP public key :lock:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBFySYFoBEAC99zs+kszeYtfM/Rh1eqykXMWcAczRuc4IwDq0w/xpTOzoM+xV
+5j/Q52JHfogmcDJwrVv3F+TfNNpp4dQGfVg8JqMKyCzyRpYna5Bz98hdJipVQlji
+pW/+oJGGhq1xzSnTb/4ecRf9/a8fHBsb8JTBvrYqxbDpt/7j16GjCEl+gVqXaFSc
+9YQ03dz2IGprypOz/bf0IlDfemwPb5N6pAZR1a6XuxnZwMvIrAixqDhYHufpc8IX
+EaUk7082e4wpoCVSARmtPTAWfgEkk7ZAyH+gtu7ebjMpydhDWqBW8K6nbqIuvvkZ
+Zn2dk69Wlz+Jk6fPs1dzrD+f91dSobAzVnUMGY/6Pv3JF2iEgEVsaqmw1e4KWEPO
+cvrVHVwsvV32d1bOBRl3SLQEDOd686nSuFQT3QrZijCL30lBFi6+/vykoQtOIcEC
+FZ3Jes2curwOdI5rBUoOmNAXw8K7j+3p7kAKmh+moioKrHzOe3/zXBMoCi/bRcn6
+1j/IDQ19dGvj3Xxf78bQfUwbS3fEDb/T08vS6KeobVJk4fFYKtetGIPg2jAv4MtG
+/qi3NNmqCD3gZNOKysIhZLj0EGd5WXTrkyJhWz3w96lCnpaJbVGsPQ/t0h8Vd5Ld
+7R9+a+QCRX4CVZteSUJ4yMJzjEMGvwskrVr65Ibwt8BilzTKPx2gIRcfeQARAQAB
+tB1waGJhMjA2MSA8bm9jdGxqcm5lQGxpdmUuY29tPokCVAQTAQgAPhYhBM1W+P81
+vWaf3z4Vt8+dS7wQSXD+BQJckmBaAhsPBQkDw3VWBQsJCAcCBhUKCQgLAgQWAgMB
+Ah4BAheAAAoJEM+dS7wQSXD+6YQP/Ryoy1FMh17MO8iLcXJL88dnbLLL/IseiJ9O
+M0HR2XXXSJIRdGtdcnRPvIVOyuwTvttwGp7y6JQitzL2gU5xyhCY83k3AObwNJv0
+TyFbIvzl9bpxNN48XOOiKTfzQBm2eb1C+Y3F8i2VCcpsPObm0TFRwpOtzCtW7rrw
+kJYA/77HWzRfGw1RRKN5LGtDmC1LunYiU6I18vYmW81RDr0hI8Qb2IICleKw3sUA
+LB1NEJLN/WEHrAOGvjg3IAOEFeYUfj+6bq3JBDQ10QeHi3IJhnvilwxWO9ARW6pT
+UrfntQjP4MlEGCpJLy36CmbOeyEXLlf2UH8Kf+m43CjsDnBfgZ4yTiJziMShV3F8
+N+tm7y77yNbu9XTX+gOr0uGk23OxdT/6fobTI3EKn+20j3dnXXhEwio+/bhnSpUo
+2n4AyAUnwF14qdUp9pdUR1dFfnT8ObNvQGYVUy3mtGIKPF/zqeKdfjJ0MXoN117S
+f6QJpWsV6azR4pCh0SEzVak2L+HqWp8I6bqlTDYfAGZ2ybMSE+NQVaIOajJ/gb11
++y4kYtbFxPqeosAhuXyIUI4nvyt+yUzWn8Na2+XcyIxKfdlQMfnU0wVQWa+A2Ugw
+jk8Pvh35E0M10OrYAPj/XSFKAEWN/cu9d6zMypU9YP/lnlRnlBQaoiU7ZPg27t5o
+fcd5eJa8
+=7uKG
+-----END PGP PUBLIC KEY BLOCK-----
+
 ## End
