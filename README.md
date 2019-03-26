@@ -35,8 +35,8 @@ I don't have much experience in system security/administration, but I don't mind
 
 ## :lock: My PGP public key :lock:
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
-`mQINBFySYFoBEAC99zs+kszeYtfM/Rh1eqykXMWcAczRuc4IwDq0w/xpTOzoM+xV
+```
+mQINBFySYFoBEAC99zs+kszeYtfM/Rh1eqykXMWcAczRuc4IwDq0w/xpTOzoM+xV
 5j/Q52JHfogmcDJwrVv3F+TfNNpp4dQGfVg8JqMKyCzyRpYna5Bz98hdJipVQlji
 pW/+oJGGhq1xzSnTb/4ecRf9/a8fHBsb8JTBvrYqxbDpt/7j16GjCEl+gVqXaFSc
 9YQ03dz2IGprypOz/bf0IlDfemwPb5N6pAZR1a6XuxnZwMvIrAixqDhYHufpc8IX
@@ -62,6 +62,6 @@ f6QJpWsV6azR4pCh0SEzVak2L+HqWp8I6bqlTDYfAGZ2ybMSE+NQVaIOajJ/gb11
 jk8Pvh35E0M10OrYAPj/XSFKAEWN/cu9d6zMypU9YP/lnlRnlBQaoiU7ZPg27t5o
 fcd5eJa8
 =7uKG
------END PGP PUBLIC KEY BLOCK-----`
-
+-----END PGP PUBLIC KEY BLOCK-----
+```
 ## End
