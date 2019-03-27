@@ -29,6 +29,8 @@ I don't have much experience in system security/administration, but I don't mind
 
 
 ## :link: My other social pages/links :link:
+- My linkedin profile [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/)
+- I'm a co-inventor of the published patent **Device for analuysis of mixtures of at least 2gas** [worldwide.espacenet.com](https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2017016840&KC=A1)
 - My website, which is still under construction & temporally hosted on [codesandbox.io](https://64n60p245n.codesandbox.io/) :joy:
 - A dapp (which was based on a Truffle framework tutorial, I migrated the front-end part to React) that I have deployed on Ethereum Ropsten testnet :dog: [codesandbox](https://jz0060zrmy.codesandbox.io/)
 - A simple dice game smart-contract (which use blockhash instead of a true source of randomness), also deployed on Ropsten tesnet :game_die: [etherscan](https://ropsten.etherscan.io/address/0xb5a5734ba7198a2283730bc998f8af56408ca06d#code)
