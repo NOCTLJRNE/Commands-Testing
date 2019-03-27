@@ -15,10 +15,10 @@
 
 ## :information_source: My profile and background :information_source:
 
-You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/) In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA as a R&D engineer(CEA is a French public government-funded research organisation), I decided to learn how to become a blockchain developper.
+You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/) In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA as a R&D engineer(CEA is a French public government-funded research organisation. Me and my team, we build handheld gas sampling/analyzing devices), I decided to learn how to become a blockchain developper.
 
 I'm also a "electronic geek", in the past I spent a lot of time playing with stuffs like Arduino board, Raspberry SBC, and electronic components such as microcontrollers, sensors, LCD screens ...  
-
+(mention your work without revealing)
 
 ## :question: Why should you vote for me :question:
 
@@ -28,10 +28,11 @@ I don't have much experience in system security/administration, but I don't mind
  
 
 
-## :link: My other social pages/link :link:
+## :link: My other social pages/links :link:
 - My website, which is still under construction & temporally hosted on [codesandbox.io](https://64n60p245n.codesandbox.io/) :joy:
 - A dapp (which was based on a Truffle framework tutorial, I migrated the front-end part to React) that I have deployed on Ethereum Ropsten testnet :dog: [codesandbox](https://jz0060zrmy.codesandbox.io/)
 - A simple dice game smart-contract (which use blockhash instead of a true source of randomness), also deployed on Ropsten tesnet :game_die: [etherscan](https://ropsten.etherscan.io/address/0xb5a5734ba7198a2283730bc998f8af56408ca06d#code)
+- And there aremore to come.
 
 ## :lock: My PGP public key (*.asc) :lock:
 -----BEGIN PGP PUBLIC KEY BLOCK-----
