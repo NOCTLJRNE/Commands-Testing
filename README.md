@@ -1,4 +1,4 @@
-# Komodo Notary Node Voting Proposal
+# Komodo Notary Node (NN) Voting Proposal
 
 
 ![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)
@@ -15,16 +15,16 @@
 
 ## :information_source: My profile and background :information_source:
 
-You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/). In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA as a R&D engineer(CEA is a French public government-funded research organisation. Me and my team, we build handheld gas sampling/analyzing devices), I decided to learn how to become a blockchain developper.
+You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/). In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA as a R&D engineer(CEA is a French public government-funded research organisation; me and my team, we build handheld gas sampling/analyzing devices, I wish I could show you some pictures but I can't due to NDA), I decided to learn how to become a blockchain developper.
 
 I'm also a "electronic geek", in the past I spent a lot of time playing with stuffs like Arduino board, Raspberry SBC, and electronic components such as microcontrollers, sensors, LCD screens ... Here's an example of what I would do during my free time :clapper: [Rainbow RGB LED](https://youtu.be/YA9X3_JJ8hM) 
 
 
 ## :question: Why should you vote for me :question:
 
-I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have the time to take a deep look into it (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from notary node (NN), expand my team if needed and speed up my contribution to the Komodo ecosytem (for the moment I'm the only member, but even without getting elected, I'll will still spend time on learning & developping CC :grin:) . 
+I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have the time to take a deep look into it (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from my NN, expand my team if needed and speed up my contribution to the Komodo ecosytem (for the moment I'm the only member, but even without getting elected, I'll will still spend time on learning & developping CC :grin:) . 
 
-I don't have much experience in system security/administration, but I don't mind spend time learning from other NN operators, and with my engineering andtechnical background, I believe that I'll be able to guarantee the performance of my NN.
+I don't have much experience in system security/administration, but I don't mind spend time learning from other NN operators, and with my engineering and technical background, I believe that I'll be able to guarantee the performance of my NN.
  
 
 ## :link: My other social pages/links :link:
