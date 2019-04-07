@@ -10,7 +10,8 @@
 |Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM |
 |Voting address 	| RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM |
 
-```VOTE Tokens will be airdroped on April 14, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also scan the QR image below) before May 15.
+```
+VOTE Tokens will be airdroped on April 14, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also scan the QR image below) before May 15.
 ```
 
 
