@@ -38,7 +38,8 @@ I don't have the intention of giving rev shares for my voters, because 1) I thin
 
 To summarize, rewards from my NN will be prioritized for: 
 - covering NN server cost. 
-- developping & promoting CC based dapps. 
+- developping & promoting CC based dapps.
+ 
 And finally no rev shares until further notice. 
  
 ## :link: My other social pages/links :link:
