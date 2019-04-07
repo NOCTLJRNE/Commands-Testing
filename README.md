@@ -1,7 +1,7 @@
 # Komodo Notary Node (NN) Voting Proposal
 
 
-![Profile Image](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg
+![Profile Image](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)
 
 |					|				|
 | -----------------	| ------------- |
@@ -10,7 +10,7 @@
 |Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM |
 |Voting address 	| RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM |
 
-![QR voting address](https://raw.githubusercontent.com/NOCTLJRNE/Commands-Testing/master/qr-code%20RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM%20200.png
+![QR voting address](https://raw.githubusercontent.com/NOCTLJRNE/Commands-Testing/master/qr-code%20RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM%20200.png)
 
 ---
 
