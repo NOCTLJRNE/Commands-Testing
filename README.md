@@ -12,7 +12,7 @@
 
 
 
-#### VOTE Tokens will be airdroped on April 14, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before May 15.
+#### VOTE Tokens will be airdropped on April 14, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before May 15. Thank you for your support !
 
 
 
