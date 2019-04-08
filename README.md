@@ -23,7 +23,7 @@
 
 ## :information_source: My profile and background :information_source:
 
-You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/). In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA as a R&D engineer(CEA is a French public government-funded research organisation; me and my team, we build handheld gas sampling/analyzing devices, I wish I could show you some pictures but I can't due to NDA), I decided to learn how to become a blockchain developper.
+You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/). In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA as a R&D engineer, I decided to learn how to become a blockchain developper (fyi, CEA is a French public government-funded research organisation; me and my team, we build handheld gas sampling/analyzing devices, I wish I could show you some pictures but I can't due to NDA).
 
 I'm also a "electronic geek", in the past I spent a lot of time playing with stuffs like Arduino board, Raspberry SBC, and electronic components such as microcontrollers, sensors, LCD screens ... Here's an example of what I would do during my free time :clapper: [Rainbow RGB LED](https://youtu.be/YA9X3_JJ8hM) 
 
