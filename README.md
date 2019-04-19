@@ -40,7 +40,7 @@ I will do a monthly report to keep things as transparent as possible.
 
 To summarize, rewards from my NN will be prioritized for: 
 - covering NN server cost ($320/server monthly). 
-- developing & promoting CC based dapps, mainly focus on games.
+- developing & promoting CC based dapps, mainly focus on gamesv (and I believe this will drive the value of KMD up in the long term).
   
  
 ## :link: My other social pages/links :link:
