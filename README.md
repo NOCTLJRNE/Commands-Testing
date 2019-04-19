@@ -89,7 +89,8 @@ fcd5eJa8
 ## :warning: UPDATE :warning:
 
 ### 20/04/2019
-After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me 
+After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me:
+ 
 | 				Address				 | 								 TXID			 					|  VOTE  |
 |------------------------------------|------------------------------------------------------------------|--------|
 | RHEnnSwnfxtUppTrthHHknJK4YP11DFHzM | 319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2 |  40000 |
