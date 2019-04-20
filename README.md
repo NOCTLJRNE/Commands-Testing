@@ -89,7 +89,7 @@ fcd5eJa8
 ## :warning: UPDATE :warning:
 
 ### 20/04/2019
-After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me:
+-After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me:
  
 | 				Address				 | 								 TXID			 					|  VOTE  |
 |------------------------------------|------------------------------------------------------------------|--------|
@@ -99,5 +99,5 @@ After the 1st week of the NN election, I'm very grateful to the people who caste
 | RGYbkvpcrLDxDEyxvc1uBXpgMqBBGigFeA | d2b085d337bc01b0bd7b3c680e99b94e3a110d52fb9040aefd2d222de5203bf6 |  50000 |
 | RGaR9uTGhrwyZFHJ1WdoGSECDhAHBj36tM | 6d229901c513a9b34f27c84891dba0f8eb2d629dd857dafb3530955a3481f1fd | 200000 |
 
-As stated previously, I'll be focusing on developing & promoting CC based dapps, mainly focus on games, to be precised, I have the intention to contribute my time working on the CHIPS project (even if I'm not elected).
+-As stated previously, I'll be focusing on developing & promoting CC based dapps, mainly focus on games, to be precised, I have the intention to contribute my time working on the CHIPS project (even if I'm not elected).
 ## End
