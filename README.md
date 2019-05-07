@@ -98,6 +98,12 @@ fcd5eJa8
 | RKDZEEiWrqrxFHyiEq9NTQeHxgdFLu6ybF | [abde2a1637543b20b7578dab01bfe854fbefe3c37d7c9b725f66d4eec3ba9233](https://komodod.com/vote2019/t/abde2a1637543b20b7578dab01bfe854fbefe3c37d7c9b725f66d4eec3ba9233) |  50000 |
 | RGYbkvpcrLDxDEyxvc1uBXpgMqBBGigFeA | [d2b085d337bc01b0bd7b3c680e99b94e3a110d52fb9040aefd2d222de5203bf6](https://komodod.com/vote2019/t/d2b085d337bc01b0bd7b3c680e99b94e3a110d52fb9040aefd2d222de5203bf6) |  50000 |
 | RGaR9uTGhrwyZFHJ1WdoGSECDhAHBj36tM | [6d229901c513a9b34f27c84891dba0f8eb2d629dd857dafb3530955a3481f1fd](https://komodod.com/vote2019/t/6d229901c513a9b34f27c84891dba0f8eb2d629dd857dafb3530955a3481f1fd) | 200000 |
-
+| RKHDb21A95kcdkwKtywh2DFy7Gt4ZqahyM | [a0030f607a320af8296e659f233ee4f73ff9bf5b2b04fa8eec70e9c25f197e13](https://komodod.com/vote2019/t/a0030f607a320af8296e659f233ee4f73ff9bf5b2b04fa8eec70e9c25f197e13) |  50000 |
+| RWZyKGtBgNMSJv2emxXxSBWtRqMq5CKvZJ | [a858687f387e68fc8d9ec372710d74f3a41f525e698d4d4749e06347e3d63047](https://komodod.com/vote2019/t/a858687f387e68fc8d9ec372710d74f3a41f525e698d4d4749e06347e3d63047) |  30000 |
+| RGKXNKrf7R8dEeLRkhZUF62uoxbxF6F5EV | [ea03190276b4b1f4bb74258920a67e3b14196732dda36cd72e1dc3c47507f92f](https://komodod.com/vote2019/t/ea03190276b4b1f4bb74258920a67e3b14196732dda36cd72e1dc3c47507f92f) | 100000 |
+| RCrLiF9E6BRPQ2dQdGTbj9udkByZ1aoMZp | [d96b6c52f6557dda3d3b667d5527225f5b4edea8dfc1ce9b307af03fbd1ffa6b](https://komodod.com/vote2019/t/d96b6c52f6557dda3d3b667d5527225f5b4edea8dfc1ce9b307af03fbd1ffa6b) |  60000 |
+| RHBGuAyrFKi8M4XSH71yHWKSQ9n7FdHtCv | [2052791494fc3ef742d0bdba64febe02872c8a705a275424474c7e251999580a](https://komodod.com/vote2019/t/2052791494fc3ef742d0bdba64febe02872c8a705a275424474c7e251999580a) | 17561.30696938 |
+| RHkPwTUqNGR8ScD3qqUq6BcACaDaTjPjEf | [a7a7a4e3278dbfd42a477e8453ab3ffbdbf3c9621724afb7bfab3b67593860ba](https://komodod.com/vote2019/t/a7a7a4e3278dbfd42a477e8453ab3ffbdbf3c9621724afb7bfab3b67593860ba) |  30000 |
+| RDCDEEWUs7k2ySPjHAy8BNBvZ4MWfRN8Q8 | [e02a42dc5cb99c8ff4e7d4edcac0b1ece269c383384a9c77abb1fd33a2d8641c](https://komodod.com/vote2019/t/e02a42dc5cb99c8ff4e7d4edcac0b1ece269c383384a9c77abb1fd33a2d8641c) | 2697.07742698 |
 - As stated previously, I'll be focusing on developing & promoting CC based dapps, mainly focus on games, to be precised, I have the intention to contribute my time working on the CHIPS project (even if I'm not elected).
 ## End
