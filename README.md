@@ -89,9 +89,11 @@ fcd5eJa8
 ## :warning: UPDATE :warning:
 
 ### 20/04/2019
-- After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me (365000):
+- After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me (365000 VOTE2019):
+### 07/05/2019
+- We are 1 week away from the conlcusion of the 2019 election, thank you for all your supports so far (655258.38 VOTE2019)
  
-| 				Address				 | 								 TXID			 					|  VOTE  |
+| 				Address				 | 								 TXID			 					|  VOTE2019  |
 |------------------------------------|------------------------------------------------------------------|--------|
 | RHEnnSwnfxtUppTrthHHknJK4YP11DFHzM | [319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2](https://komodod.com/vote2019/t/319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2) |  40000 |
 | RESES7Bvd5wJcy2bqizWHF6LXbUAA8GrnJ | [947b176e37fba52b327bcb67001f043afb292543ec0ffe7267d547fc7a2b4007](https://komodod.com/vote2019/t/947b176e37fba52b327bcb67001f043afb292543ec0ffe7267d547fc7a2b4007) |  25000 |
