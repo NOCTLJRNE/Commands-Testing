@@ -89,9 +89,9 @@ fcd5eJa8
 ## :warning: UPDATE :warning:
 
 ### 20/04/2019
-- After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me (365000 VOTE2019):
+- After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me (365000):
 ### 07/05/2019
-- We are 1 week away from the conlcusion of the 2019 election, thank you for all your supports so far (655258.38 VOTE2019)
+- We are 1 week away from the conlcusion of the 2019 election, thank you for all your supports so far (655258.38)
  
 | 				Address				 | 								 TXID			 					|  VOTE2019  |
 |------------------------------------|------------------------------------------------------------------|--------|
