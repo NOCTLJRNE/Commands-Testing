@@ -91,8 +91,10 @@ fcd5eJa8
 ### 20/04/2019
 - After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me (365000).
 ### 07/05/2019
-- We are 1 week away from the conlcusion of the 2019 election, thank you for all your supports so far (655258.38).
- 
+- We are 1 week away from the conclusion of the 2019 election, thank you for all your supports so far (655258.38).
+### 14/05/2019
+- The election has concluded, thank you for helping me securing the 4th spot in EU region (1242866.05 in total).
+
 | 				Address				 | 								 TXID			 					|  VOTE2019  |
 |------------------------------------|------------------------------------------------------------------|--------|
 | RHEnnSwnfxtUppTrthHHknJK4YP11DFHzM | [319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2](https://komodod.com/vote2019/t/319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2) |  40000 |
@@ -107,5 +109,16 @@ fcd5eJa8
 | RHBGuAyrFKi8M4XSH71yHWKSQ9n7FdHtCv | [2052791494fc3ef742d0bdba64febe02872c8a705a275424474c7e251999580a](https://komodod.com/vote2019/t/2052791494fc3ef742d0bdba64febe02872c8a705a275424474c7e251999580a) | 17561.30696938 |
 | RHkPwTUqNGR8ScD3qqUq6BcACaDaTjPjEf | [a7a7a4e3278dbfd42a477e8453ab3ffbdbf3c9621724afb7bfab3b67593860ba](https://komodod.com/vote2019/t/a7a7a4e3278dbfd42a477e8453ab3ffbdbf3c9621724afb7bfab3b67593860ba) |  30000 |
 | RDCDEEWUs7k2ySPjHAy8BNBvZ4MWfRN8Q8 | [e02a42dc5cb99c8ff4e7d4edcac0b1ece269c383384a9c77abb1fd33a2d8641c](https://komodod.com/vote2019/t/e02a42dc5cb99c8ff4e7d4edcac0b1ece269c383384a9c77abb1fd33a2d8641c) | 2697.07742698 |
+| RGmBP5iip6otPxJeHddnA4xcAtjgMnsToE | [038dce47319f91bfadd49a025b92b5a0d6cfc8fd97ad33b31dca6b11e3d794f2](https://komodod.com/vote2019/t/038dce47319f91bfadd49a025b92b5a0d6cfc8fd97ad33b31dca6b11e3d794f2) | 75000 |
+| RTCzHLA5ZambDV75opqFLE2PbvWFdtUmTU | [95060662a23e0479f0911156213a69118b795b5935afe1330d11ac199c1867ff](https://komodod.com/vote2019/t/95060662a23e0479f0911156213a69118b795b5935afe1330d11ac199c1867ff) | 100000 |
+| RBQhpBcQZ69gTh6w688hnkK1xHeLfCtKtD | [90f723b2c093a772415b98da16cae26d5192b6f729a028415398d1bda8f97121](https://komodod.com/vote2019/t/90f723b2c093a772415b98da16cae26d5192b6f729a028415398d1bda8f97121) | 200000 |
+| RG3zZw4xXG13V11c3mGqVA4NwqqMHz6rS8 | [609a9a772f3faa9c6568232804ed2e396e32236931df3781b2afb02236bcced5](https://komodod.com/vote2019/t/609a9a772f3faa9c6568232804ed2e396e32236931df3781b2afb02236bcced5) | 10267.46896043 |
+| RCtUiCMni6VSgJi9ZYqcUzKSuAUDFthK4K | [f7aa446c076a3beea44a34d64b2a8ede1a730d5016befeaddb020c8a579d39dc](https://komodod.com/vote2019/t/f7aa446c076a3beea44a34d64b2a8ede1a730d5016befeaddb020c8a579d39dc)| 35000 |
+| REFEa1TwukE7nRCNYEKNALXjLi2HDJmmJD | [d05c2f3713adce613ae616ac9b82ee1ca0a544fb1756845bcf5d3bc41dabf81a](https://komodod.com/vote2019/t/d05c2f3713adce613ae616ac9b82ee1ca0a544fb1756845bcf5d3bc41dabf81a) | 60000 |
+| RWqAkqz57niDD99538KprPVbLo36FtvojE | [133e0c0a4ffb5e496d54d872bcea1aed6f2f9dcb026ab3c3ee39322c2e4e1887](https://komodod.com/vote2019/t/133e0c0a4ffb5e496d54d872bcea1aed6f2f9dcb026ab3c3ee39322c2e4e1887) | 40000 |
+| RV647eg4VwiKLYqFVayYu2JTTbsm7u7ASE | [afa1e6f7a8f255cb4f2fb51989ae9db217971a8850ce399a8af435caf55c648b](https://komodod.com/vote2019/t/afa1e6f7a8f255cb4f2fb51989ae9db217971a8850ce399a8af435caf55c648b) | 7340.19684585 |
+| RBpEnyzuQNj1hNdAG1pKLALpAWEUS67PBj | [0278661f697983a0a6fc7380bf8125c1cae90191bf60a1d719569fbe00fb66b9](https://komodod.com/vote2019/t/0278661f697983a0a6fc7380bf8125c1cae90191bf60a1d719569fbe00fb66b9) |  50000 |
+| RQBR36P3i1N4H6zLsrtdcJ7tRUiy2egy32 | [0acad37b9f69b953a10c47129f3136da51e4f0d1f14d4dddeefae7a5c25d7441](https://komodod.com/vote2019/t/0acad37b9f69b953a10c47129f3136da51e4f0d1f14d4dddeefae7a5c25d7441) |  10000 |
+
 - As stated previously, I'll be focusing on developing & promoting CC based dapps, mainly focus on games, to be precised, I have the intention to contribute my time working on the CHIPS project (even if I'm not elected).
 ## End
